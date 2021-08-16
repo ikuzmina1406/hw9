@@ -1,6 +1,6 @@
 .idea
 *.iml
-UserH.txt
+UserH.java
 pom.xml
 /out
 /target
